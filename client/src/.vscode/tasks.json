@@ -1,0 +1,30 @@
+{
+// Vea https://go.microsoft.com/fwlink/?LinkId=733558 
+    // para la documentación acerca del formato tasks.json
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "client",
+            "command": "/usr/bin/gcc",
+            "args": [
+                "-g",                
+                "${workspaceFolder}/*.c",
+                "-o",
+                "${fileDirname}/${fileBasenameNoExtension}",
+                "-lcommons", 
+                "-lreadline"
+            ],
+            "options": {
+                "cwd": "/usr/bin"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}

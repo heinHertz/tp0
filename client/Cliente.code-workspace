@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": ".settings"
+		},
+		{
+			"path": "Debug"
+		},
+		{
+			"path": "src"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"client.h": "c",
+			"stdio.h": "c",
+			"utils.h": "c",
+			"stdlib.h": "c"
+		}
+	}
+}
