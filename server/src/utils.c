@@ -19,6 +19,20 @@ int iniciar_servidor(void)
 
     // Escuchamos las conexiones entrantes
 
+    for (p=servinfo; p != NULL; p = p->ai_next)
+    {
+        if ((socket_servidor = socket(p->ai_family, p->ai_socktype, p->ai_protocol)) == -1)
+            continue;
+
+        if (bind(socket_servidor, p->ai_addr, p->ai_addrlen) == -1) {
+            close(socket_servidor);
+            continue;
+        }
+        break;
+    }
+
+	listen(socket_servidor, SOMAXCONN);
+
     freeaddrinfo(servinfo);
 
     log_trace(logger, "Listo para escuchar a mi cliente");
@@ -32,7 +46,7 @@ int esperar_cliente(int socket_servidor)
 	int tam_direccion = sizeof(struct sockaddr_in);
 
 	// Aceptamos un nuevo cliente
-	int socket_cliente = 0;
+	int socket_cliente = accept(socket_servidor, (void*) &dir_cliente, &tam_direccion);
 
 	log_info(logger, "Se conecto un cliente!");
 

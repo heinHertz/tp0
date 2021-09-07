@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": ".settings"
+		},
+		{
+			"path": "Debug"
+		},
+		{
+			"path": "src"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"utils.h": "c"
+		}
+	}
+}

@@ -23,8 +23,7 @@ int main(void) {
 			log_error(logger, "el cliente se desconecto. Terminando servidor");
 			return EXIT_FAILURE;
 		default:
-			log_warning(logger,
-					"Operacion desconocida. No quieras meter la pata");
+			log_warning(logger,	"Operacion desconocida. No quieras meter la pata");
 			break;
 		}
 	}
