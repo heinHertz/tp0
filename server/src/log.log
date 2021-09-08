@@ -12469,3 +12469,125 @@
 [INFO] 16:59:29:048 Servidor/(32565:32565): Me llegaron los siguientes valores:
 
 [ERROR] 16:59:29:048 Servidor/(32565:32565): el cliente se desconecto. Terminando servidor
+[INFO] 18:03:25:092 Servidor/(3600:3600): Servidor listo para recibir al cliente
+[INFO] 18:03:38:989 Servidor/(3600:3600): Se conecto un cliente!
+[INFO] 18:03:38:990 Servidor/(3600:3600): Me llego el mensaje Hola, soy un valor en el config
+[INFO] 18:03:38:990 Servidor/(3600:3600): Me llegaron los siguientes valores:
+
+[ERROR] 18:03:38:991 Servidor/(3600:3600): el cliente se desconecto. Terminando servidor
+[INFO] 18:05:15:275 Servidor/(3794:3794): Servidor listo para recibir al cliente
+[INFO] 18:05:27:102 Servidor/(3794:3794): Se conecto un cliente!
+[INFO] 18:05:27:104 Servidor/(3794:3794): Me llego el mensaje Hola, soy un valor en el config
+[INFO] 18:09:35:184 Servidor/(4143:4143): Servidor listo para recibir al cliente
+[INFO] 18:09:51:491 Servidor/(4143:4143): Se conecto un cliente!
+[INFO] 18:09:51:494 Servidor/(4143:4143): Me llego el mensaje Hola, soy un valor en el config
+[ERROR] 18:10:30:730 Servidor/(4143:4143): el cliente se desconecto. Terminando servidor
+[INFO] 18:10:47:312 Servidor/(4315:4315): Servidor listo para recibir al cliente
+[INFO] 18:10:59:048 Servidor/(4315:4315): Se conecto un cliente!
+[INFO] 18:10:59:049 Servidor/(4315:4315): Me llego el mensaje Hola, soy un valor en el config
+[ERROR] 18:11:59:559 Servidor/(4315:4315): el cliente se desconecto. Terminando servidor
+[INFO] 18:12:49:541 Servidor/(4530:4530): Servidor listo para recibir al cliente
+[INFO] 18:12:59:607 Servidor/(4530:4530): Se conecto un cliente!
+[INFO] 18:12:59:608 Servidor/(4530:4530): Me llego el mensaje Hola, soy un valor en el config
+[INFO] 18:12:59:608 Servidor/(4530:4530): Me llegaron los siguientes valores:
+
+[ERROR] 18:13:48:353 Servidor/(4530:4530): el cliente se desconecto. Terminando servidor
+[INFO] 18:13:54:829 Servidor/(4669:4669): Servidor listo para recibir al cliente
+[INFO] 18:14:05:815 Servidor/(4669:4669): Se conecto un cliente!
+[INFO] 18:14:05:821 Servidor/(4669:4669): Me llego el mensaje Hola, soy un valor en el config
+[INFO] 18:14:05:821 Servidor/(4669:4669): Me llegaron los siguientes valores:
+
+[ERROR] 18:14:05:821 Servidor/(4669:4669): el cliente se desconecto. Terminando servidor
+[INFO] 18:15:32:693 Servidor/(4924:4924): Servidor listo para recibir al cliente
+[INFO] 18:16:08:938 Servidor/(4979:4979): Servidor listo para recibir al cliente
+[INFO] 18:16:23:715 Servidor/(4979:4979): Se conecto un cliente!
+[INFO] 18:16:23:716 Servidor/(4979:4979): Me llego el mensaje Hola, soy un valor en el config
+[INFO] 18:16:23:717 Servidor/(4979:4979): Me llegaron los siguientes valores:
+
+[ERROR] 18:16:23:717 Servidor/(4979:4979): el cliente se desconecto. Terminando servidor
+[INFO] 18:18:45:654 Servidor/(5293:5293): Servidor listo para recibir al cliente
+[INFO] 18:19:00:157 Servidor/(5293:5293): Se conecto un cliente!
+[INFO] 18:19:00:159 Servidor/(5293:5293): Me llego el mensaje Hola, soy un valor en el config
+[INFO] 18:22:29:537 Servidor/(5293:5293): Me llegaron los siguientes valores:
+
+[INFO] 18:24:07:166 Servidor/(5626:5626): Servidor listo para recibir al cliente
+[INFO] 18:24:28:735 Servidor/(5626:5626): Se conecto un cliente!
+[INFO] 18:24:28:736 Servidor/(5626:5626): Me llego el mensaje Hola, soy un valor en el config
+[INFO] 18:24:42:677 Servidor/(5626:5626): Me llegaron los siguientes valores:
+
+[INFO] 18:50:53:494 Servidor/(7748:7748): Servidor listo para recibir al cliente
+[INFO] 18:50:59:222 Servidor/(7748:7748): Se conecto un cliente!
+[INFO] 18:50:59:224 Servidor/(7748:7748): Me llego el mensaje Hola, soy un valor en el config
+[INFO] 18:51:23:159 Servidor/(7748:7748): Me llegaron los siguientes valores:
+
+[INFO] 18:52:27:714 Servidor/(7900:7900): Servidor listo para recibir al cliente
+[INFO] 18:52:31:653 Servidor/(7900:7900): Se conecto un cliente!
+[INFO] 18:52:31:654 Servidor/(7900:7900): Me llego el mensaje Hola, soy un valor en el config
+[INFO] 18:53:15:405 Servidor/(7900:7900): Me llegaron los siguientes valores:
+
+[INFO] 21:38:20:962 Servidor/(9292:9292): Servidor listo para recibir al cliente
+[INFO] 21:38:46:176 Servidor/(9327:9327): Servidor listo para recibir al cliente
+[INFO] 21:38:51:198 Servidor/(9327:9327): Se conecto un cliente!
+[INFO] 21:38:51:199 Servidor/(9327:9327): Me llego el mensaje Hola, soy un valor en el config
+[INFO] 21:38:51:200 Servidor/(9327:9327): Me llegaron los siguientes valores:
+
+[ERROR] 21:38:51:200 Servidor/(9327:9327): el cliente se desconecto. Terminando servidor
+[INFO] 21:52:12:916 Servidor/(10101:10101): Servidor listo para recibir al cliente
+[INFO] 21:52:25:061 Servidor/(10101:10101): Se conecto un cliente!
+[INFO] 21:52:25:062 Servidor/(10101:10101): Me llego el mensaje Hola, soy un valor en el config
+[INFO] 21:52:27:816 Servidor/(10101:10101): Me llegaron los siguientes valores:
+
+[ERROR] 21:52:27:820 Servidor/(10101:10101): el cliente se desconecto. Terminando servidor
+[INFO] 21:53:11:304 Servidor/(10292:10292): Servidor listo para recibir al cliente
+[INFO] 21:53:34:370 Servidor/(10321:10321): Servidor listo para recibir al cliente
+[INFO] 21:53:52:332 Servidor/(10321:10321): Se conecto un cliente!
+[INFO] 21:53:52:333 Servidor/(10321:10321): Me llego el mensaje Hola, soy un valor en el config
+[INFO] 21:53:54:662 Servidor/(10321:10321): Me llegaron los siguientes valores:
+
+[ERROR] 21:53:54:664 Servidor/(10321:10321): el cliente se desconecto. Terminando servidor
+[INFO] 21:57:41:655 Servidor/(10676:10676): Servidor listo para recibir al cliente
+[INFO] 21:57:57:394 Servidor/(10676:10676): Se conecto un cliente!
+[INFO] 21:57:57:394 Servidor/(10676:10676): Me llego el mensaje Hola, soy un valor en el config
+[INFO] 21:58:11:552 Servidor/(10676:10676): Me llegaron los siguientes valores:
+
+[ERROR] 21:58:11:555 Servidor/(10676:10676): el cliente se desconecto. Terminando servidor
+[INFO] 21:58:21:590 Servidor/(10897:10897): Servidor listo para recibir al cliente
+[INFO] 21:58:24:328 Servidor/(10897:10897): Se conecto un cliente!
+[INFO] 21:58:24:328 Servidor/(10897:10897): Me llego el mensaje Hola, soy un valor en el config
+[INFO] 21:58:31:800 Servidor/(10897:10897): Me llegaron los siguientes valores:
+
+[ERROR] 21:58:31:802 Servidor/(10897:10897): el cliente se desconecto. Terminando servidor
+[INFO] 22:00:38:434 Servidor/(11369:11369): Servidor listo para recibir al cliente
+[INFO] 22:00:47:320 Servidor/(11394:11394): Servidor listo para recibir al cliente
+[INFO] 22:01:13:655 Servidor/(11394:11394): Se conecto un cliente!
+[INFO] 22:01:13:656 Servidor/(11394:11394): Me llego el mensaje Hola, soy un valor en el config
+[INFO] 22:01:22:239 Servidor/(11394:11394): Me llegaron los siguientes valores:
+
+[ERROR] 22:01:22:243 Servidor/(11394:11394): el cliente se desconecto. Terminando servidor
+[INFO] 22:02:12:440 Servidor/(11648:11648): Servidor listo para recibir al cliente
+[INFO] 22:02:24:366 Servidor/(11670:11670): Servidor listo para recibir al cliente
+[INFO] 22:02:38:807 Servidor/(11670:11670): Se conecto un cliente!
+[INFO] 22:02:38:808 Servidor/(11670:11670): Me llego el mensaje Hola, soy un valor en el config
+[INFO] 22:02:43:652 Servidor/(11670:11670): Me llegaron los siguientes valores:
+
+[ERROR] 22:02:43:658 Servidor/(11670:11670): el cliente se desconecto. Terminando servidor
+[INFO] 22:03:39:419 Servidor/(11901:11901): Servidor listo para recibir al cliente
+[INFO] 22:03:50:212 Servidor/(11921:11921): Servidor listo para recibir al cliente
+[INFO] 22:04:08:754 Servidor/(11921:11921): Se conecto un cliente!
+[INFO] 22:04:08:755 Servidor/(11921:11921): Me llego el mensaje Hola, soy un valor en el config
+[INFO] 22:04:20:212 Servidor/(11921:11921): Me llegaron los siguientes valores:
+
+[ERROR] 22:04:20:214 Servidor/(11921:11921): el cliente se desconecto. Terminando servidor
+[INFO] 22:05:28:763 Servidor/(12165:12165): Servidor listo para recibir al cliente
+[INFO] 22:05:36:841 Servidor/(12186:12186): Servidor listo para recibir al cliente
+[INFO] 22:05:47:411 Servidor/(12186:12186): Se conecto un cliente!
+[INFO] 22:05:47:411 Servidor/(12186:12186): Me llego el mensaje Hola, soy un valor en el config
+[INFO] 22:05:51:835 Servidor/(12186:12186): Me llegaron los siguientes valores:
+
+[ERROR] 22:05:51:838 Servidor/(12186:12186): el cliente se desconecto. Terminando servidor
+[INFO] 22:07:49:682 Servidor/(12379:12379): Servidor listo para recibir al cliente
+[INFO] 22:08:05:419 Servidor/(12379:12379): Se conecto un cliente!
+[INFO] 22:08:05:420 Servidor/(12379:12379): Me llego el mensaje Hola, soy un valor en el config
+[INFO] 22:08:09:648 Servidor/(12379:12379): Me llegaron los siguientes valores:
+
+[ERROR] 22:08:09:650 Servidor/(12379:12379): el cliente se desconecto. Terminando servidor

@@ -17,7 +17,28 @@ int main(void) {
 		case PAQUETE:
 			lista = recibir_paquete(cliente_fd);
 			log_info(logger, "Me llegaron los siguientes valores:\n");
-			list_iterate(lista, (void*) iterator);
+
+			t_list_iterator* iterador;
+
+			int tam = list_size(lista);
+
+			iterador = list_iterator_create(lista);
+
+			int contador = 1;
+
+
+			while(list_iterator_has_next(iterador) ){
+
+				char * i = (char *)list_iterator_next( iterador);
+
+				printf("Valor  %d: \t %s \n", contador ,  i );
+
+				contador++;
+
+			};
+
+
+		//	list_iterate(lista, (void*) iterator);  No me funcaba
 			break;
 		case -1:
 			log_error(logger, "el cliente se desconecto. Terminando servidor");
@@ -31,5 +52,6 @@ int main(void) {
 }
 
 void iterator(t_log* logger, char* value) {
+	printf("Valor :  %s \n", value);
 	log_info(logger,"%s\n", value);
 }
